@@ -12,9 +12,7 @@ Bu repoyu indirmeden sorunu kendi yüklü olan blynk kütüphanenizde çözmek i
 1. Kütüphaneyi indirin.
 2. İndirdiğiniz kütüphaneyi, Arduino IDE'ye yüklemek için aşağıdaki adımları uygulayın:
 
-    - Arduino IDE'yi açın.
-    - Sketch > Include Library > Add .ZIP Library seçeneğine tıklayın.
-    - İndirdiğiniz kütüphanenin .zip dosyasını seçin.
+    - Repo içerisindeki 'blynk-library-deneyap' klasörünü 'Belgelerim/Arduino/libraries' konumuna atın.
     - Kütüphane yüklendikten sonra, Arduino IDE'yi yeniden başlatın.
 
 3. Kütüphaneyi kullanmak için, Arduino IDE'deki örnek kodlardan birini açın. Örnek kodların çoğu, BlynkSimpleEsp32 kütüphanesini kullanır. Bu örnek kodları, Deneyap kartı ile uyumlu olarak çalışacak şekilde değiştirmeniz gerekebilir. Bu yüzden 'BlynkSimpleEsp32.h' dosyasını kullanan örnekleri çalıştırmanız sorun çıkmaması adına önemli.
