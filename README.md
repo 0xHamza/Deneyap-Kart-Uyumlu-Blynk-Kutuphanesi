@@ -1,4 +1,4 @@
-# Deneyap-Kart-Uyumlu-Blynk-Kutuphanesi
+# Deneyap Kart İle Blynk
 Blynk for Deneyap Kart, This library has been modified to provide compatibility with the Blynk library for Deneyap board users.
 
 # Deneyap Kartı için Blynk Kütüphanesi Uyumu
